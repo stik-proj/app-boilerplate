@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "995886443002",
+    "project_id": "eztechfin-boilerplate",
+    "storage_bucket": "eztechfin-boilerplate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995886443002:android:16bcd92f5edfedb938dc43",
+        "android_client_info": {
+          "package_name": "kr.co.eztechfin.app_boilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995886443002-a3f58gd4oourvbpk7b2k218f3pt4u39g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJn8vTA2hiQ1AIBclb_PBzZK1cvuwnFMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995886443002-a3f58gd4oourvbpk7b2k218f3pt4u39g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995886443002-f3mqrbsahoktigu15r3drkuu26mjm2n1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.eztechfin.appBoilerplate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
